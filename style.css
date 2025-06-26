@@ -1,0 +1,38 @@
+        .container {
+        background-color: white;
+        padding: 30px;
+        margin: 60px auto;
+        max-width: 500px;
+        box-shadow: 0 0 10px rgb(229, 229, 229);
+        font-family: Arial, Helvetica, sans-serif;
+        }
+        h1 {
+        color: green;
+        text-align: center;
+        }
+        form {
+        display: flex;
+        flex-direction: column;
+        }
+
+        input {
+        margin: 8px;
+        padding: 7px;
+        display: block;
+        font-size: 15px;
+        }
+        textarea {
+        margin: 8px;
+        padding: 7px;
+        display: block;
+        font-size: 15px;
+        }
+        button {
+        padding: 7px;
+        margin-top: 9px;
+        border: none;
+        font-size: 21px;
+        background-color: green;
+        color: white;
+        border-radius: 5px;
+        }
